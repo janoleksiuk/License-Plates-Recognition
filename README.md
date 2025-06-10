@@ -28,6 +28,9 @@ Update `TESSERACT_PATH` in `PlateRecognitionConfig` class to match your installa
 
 ## Usage
 
+There is included 'photos' folder with example photos. 
+If you wish to use your own photos change the directory path in the code:
+
 ```python
 from license_plate_recognizer import LicensePlateRecognizer
 
