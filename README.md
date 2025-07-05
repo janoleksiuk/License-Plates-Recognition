@@ -65,7 +65,6 @@ Plate 1:
 - Python 3.8+
 - OpenCV
 - NumPy
-- Tesseract OCR
 - pytesseract
 
 See `requirements.txt` for complete dependencies.
